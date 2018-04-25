@@ -1,0 +1,2 @@
+# LED-Counting
+Built an up/down counter using the ATtiny45 microcontroller (Kit A) in combination with a power logic 8-bit shift register, a 7-segment LED display, and a pushbutton switch. When the power is turned on, the 7-segment display will show "0" and the counter will be in increment mode. The pushbutton switch is used for mode selection, counter increment/decrement, and counter reset as described below in more detail.
